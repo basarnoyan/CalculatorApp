@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="darkGreen">#61764B</color>
+    <color name="beige">#FAD6A5</color>
+    <color name="lightGreen">#9BA17B</color>
+    <color name="almostBlack">#222</color>
+    <color name="skinColor">#CFB997</color>
+</resources>
